@@ -51,3 +51,5 @@ console.log (typeof bigInteger);
 console.log(typeof booleanIsGerater);
 console.log(typeof nullVar);
 console.log(typeof undifinedVar);
+
+//Komentar

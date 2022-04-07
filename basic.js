@@ -13,4 +13,4 @@ console.log(messageZdravo + messageSvete);
 
 console.log(2*PI);
 
-// Comment for the sake of commentary
+
