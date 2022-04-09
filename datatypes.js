@@ -53,3 +53,4 @@ console.log(typeof nullVar);
 console.log(typeof undifinedVar);
 
 //Komentar
+
