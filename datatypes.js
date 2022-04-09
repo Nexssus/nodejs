@@ -52,10 +52,7 @@ console.log(typeof booleanIsGerater);
 console.log(typeof nullVar);
 console.log(typeof undifinedVar);
 
-// Type of conversion
-console.log("===String conversion===");
-let value = true;
-console.log(typeof(value));
+
 
 
 
